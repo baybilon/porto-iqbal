@@ -1,0 +1,15 @@
+export const contactObj = {
+    id: 'contact',
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: 'Top line Gede',
+    headLine: ' Contact me at',
+    description: 'Email : iqbal.py@outlook.com | WhatsApp : +6285158173324',
+    imgStart: false,
+    img: ('./images/contact.svg'),
+    alt:'Portofolio',
+    dark:true,
+    primary:true,
+    darkText: true,
+};
