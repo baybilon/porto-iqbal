@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/porto-iqbal/static/css/main.ff333184.chunk.css",
+    "main.js": "/porto-iqbal/static/js/main.037e3187.chunk.js",
+    "main.js.map": "/porto-iqbal/static/js/main.037e3187.chunk.js.map",
+    "runtime-main.js": "/porto-iqbal/static/js/runtime-main.1f66539e.js",
+    "runtime-main.js.map": "/porto-iqbal/static/js/runtime-main.1f66539e.js.map",
+    "static/js/2.27b3b264.chunk.js": "/porto-iqbal/static/js/2.27b3b264.chunk.js",
+    "static/js/2.27b3b264.chunk.js.map": "/porto-iqbal/static/js/2.27b3b264.chunk.js.map",
+    "static/js/3.5a1e243b.chunk.js": "/porto-iqbal/static/js/3.5a1e243b.chunk.js",
+    "static/js/3.5a1e243b.chunk.js.map": "/porto-iqbal/static/js/3.5a1e243b.chunk.js.map",
+    "index.html": "/porto-iqbal/index.html",
+    "static/css/main.ff333184.chunk.css.map": "/porto-iqbal/static/css/main.ff333184.chunk.css.map",
+    "static/js/2.27b3b264.chunk.js.LICENSE.txt": "/porto-iqbal/static/js/2.27b3b264.chunk.js.LICENSE.txt",
+    "static/media/contact.ccae12d4.svg": "/porto-iqbal/static/media/contact.ccae12d4.svg",
+    "static/media/logo.6ce24c58.svg": "/porto-iqbal/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f66539e.js",
+    "static/js/2.27b3b264.chunk.js",
+    "static/css/main.ff333184.chunk.css",
+    "static/js/main.037e3187.chunk.js"
+  ]
+}
